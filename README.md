@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Thakur</h1>
 <h3 align="center">A passionate DevOps Enthusiast from India</h3>
 
-- 🔭 I’m currently working on Ansible **ec-2 launch with Ansible**
+- 🔭 I’m currently working on Ansible **Automating System Admin Tasks Using Ansible✌️**
 
 - 🌱 I’m currently learning **Python, Ansible, Kubernetes, Docker, HTML, CSS, Aws Cloud**
 
-- 💬 Ask me about **Docker, Ansible, Python, AWS Cloud, RHEL**
+- 💬 Ask me about **Docker, Ansible, Python, AWS-Cloud, RHEL, Kubernetes**
 
 - 📫 How to reach me **deepak.thakur2523@gmail.com**
 
